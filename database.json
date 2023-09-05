@@ -1,0 +1,273 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "cohort": 60
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "cohort": 61
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "cohort": 62
+    },
+    {
+      "id": 4,
+      "name": "Bob Williams",
+      "email": "bob.williams@example.com",
+      "cohort": 63
+    },
+    {
+      "id": 5,
+      "name": "Eva Brown",
+      "email": "eva.brown@example.com",
+      "cohort": 64
+    },
+    {
+      "id": 6,
+      "name": "Michael Wilson",
+      "email": "michael.wilson@example.com",
+      "cohort": 65
+    },
+    {
+      "id": 7,
+      "name": "Olivia Davis",
+      "email": "olivia.davis@example.com",
+      "cohort": 66
+    },
+    {
+      "id": 8,
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "cohort": 60
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "JavaScript Fundamentals"
+    },
+    {
+      "id": 2,
+      "name": "Python Programming"
+    },
+    {
+      "id": 3,
+      "name": "Web Development"
+    },
+    {
+      "id": 4,
+      "name": "Data Science and Machine Learning"
+    },
+    {
+      "id": 5,
+      "name": "Mobile App Development"
+    },
+    {
+      "id": 6,
+      "name": "Algorithms and Data Structures"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "body": "JavaScript is a versatile programming language...",
+      "date": "2023-09-06T10:00:00Z",
+      "topicId": 3,
+      "userId": 5
+    },
+    {
+      "id": 2,
+      "title": "Python for Beginners",
+      "body": "Python is a beginner-friendly language known for its simplicity...",
+      "date": "2023-09-07T14:30:00Z",
+      "topicId": 2,
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "title": "Web Development Tools",
+      "body": "Learn about essential tools for web development...",
+      "date": "2023-09-08T16:45:00Z",
+      "topicId": 3,
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Data Science Techniques",
+      "body": "Discover data analysis and machine learning techniques...",
+      "date": "2023-09-09T09:15:00Z",
+      "topicId": 4,
+      "userId": 7
+    },
+    {
+      "id": 5,
+      "title": "Creating Mobile Apps",
+      "body": "Explore mobile app development and its tools...",
+      "date": "2023-09-10T11:20:00Z",
+      "topicId": 5,
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Algorithms and Data Structures",
+      "body": "Learn about algorithms, data structures, and their importance...",
+      "date": "2023-09-11T13:05:00Z",
+      "topicId": 6,
+      "userId": 6
+    },
+    {
+      "id": 7,
+      "title": "Responsive Web Design",
+      "body": "Designing websites for different screen sizes...",
+      "date": "2023-09-12T17:10:00Z",
+      "topicId": 3,
+      "userId": 4
+    },
+    {
+      "id": 8,
+      "title": "Exploring Deep Learning",
+      "body": "Deep learning and neural networks in machine learning...",
+      "date": "2023-09-13T08:45:00Z",
+      "topicId": 4,
+      "userId": 8
+    },
+    {
+      "id": 9,
+      "title": "JavaScript Frameworks",
+      "body": "Frameworks like React and Angular for web development...",
+      "date": "2023-09-14T10:25:00Z",
+      "topicId": 3,
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Python Data Analysis",
+      "body": "Analyzing data using Python libraries like Pandas...",
+      "date": "2023-09-15T12:40:00Z",
+      "topicId": 4,
+      "userId": 5
+    },
+    {
+      "id": 11,
+      "title": "Mobile App UI Design",
+      "body": "Designing user interfaces for mobile applications...",
+      "date": "2023-09-16T14:55:00Z",
+      "topicId": 5,
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "title": "Advanced Sorting Algorithms",
+      "body": "Exploring sorting algorithms like quicksort and mergesort...",
+      "date": "2023-09-17T16:30:00Z",
+      "topicId": 6,
+      "userId": 7
+    },
+    {
+      "id": 13,
+      "title": "JavaScript ES6 Features",
+      "body": "New features and improvements in ECMAScript 2015...",
+      "date": "2023-09-18T09:20:00Z",
+      "topicId": 3,
+      "userId": 3
+    },
+    {
+      "id": 14,
+      "title": "Machine Learning Applications",
+      "body": "Real-world applications of machine learning in various industries...",
+      "date": "2023-09-19T11:15:00Z",
+      "topicId": 4,
+      "userId": 6
+    },
+    {
+      "id": 15,
+      "title": "Cross-Platform App Development",
+      "body": "Developing apps that run on multiple platforms...",
+      "date": "2023-09-20T13:25:00Z",
+      "topicId": 5,
+      "userId": 8
+    },
+    {
+      "id": 16,
+      "title": "Graph Algorithms",
+      "body": "Algorithms for working with graphs and networks...",
+      "date": "2023-09-21T15:50:00Z",
+      "topicId": 6,
+      "userId": 4
+    },
+    {
+      "id": 17,
+      "title": "Front-End Frameworks",
+      "body": "Popular front-end frameworks for web development...",
+      "date": "2023-09-22T17:45:00Z",
+      "topicId": 3,
+      "userId": 7
+    },
+    {
+      "id": 18,
+      "title": "Natural Language Processing",
+      "body": "Processing and understanding human language using AI...",
+      "date": "2023-09-23T08:10:00Z",
+      "topicId": 4,
+      "userId": 1
+    },
+    {
+      "id": 19,
+      "title": "Mobile App Testing",
+      "body": "Testing mobile applications for quality and reliability...",
+      "date": "2023-09-24T10:35:00Z",
+      "topicId": 5,
+      "userId": 5
+    },
+    {
+      "id": 20,
+      "title": "Dynamic Programming",
+      "body": "Solving complex problems using dynamic programming techniques...",
+      "date": "2023-09-25T12:15:00Z",
+      "topicId": 6,
+      "userId": 2
+    },
+    {
+      "id": 21,
+      "title": "Node.js Fundamentals",
+      "body": "Building server-side applications with Node.js...",
+      "date": "2023-09-26T14:05:00Z",
+      "topicId": 3,
+      "userId": 6
+    },
+    {
+      "id": 22,
+      "title": "Big Data Analytics",
+      "body": "Analyzing massive datasets using big data tools...",
+      "date": "2023-09-27T16:20:00Z",
+      "topicId": 4,
+      "userId": 8
+    },
+    {
+      "id": 23,
+      "title": "iOS App Development",
+      "body": "Developing applications for Apple's iOS platform...",
+      "date": "2023-09-28T09:30:00Z",
+      "topicId": 5,
+      "userId": 3
+    },
+    {
+      "id": 24,
+      "title": "Graph Algorithms in Social Networks",
+      "body": "Applying graph algorithms to analyze social network data...",
+      "date": "2023-09-29T11:40:00Z",
+      "topicId": 6,
+      "userId": 7
+    }
+  ]
+}
